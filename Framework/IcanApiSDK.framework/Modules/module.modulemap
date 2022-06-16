@@ -1,0 +1,6 @@
+framework module IcanApiSDK {
+  umbrella header "IcanApiSDK.h"
+
+  export *
+  module * { export * }
+}
